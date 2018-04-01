@@ -5,6 +5,7 @@
 ![](http://gpe3.acm-icpc.tw/pct/images/8870d5bbbdbbe4e90619a25a1f112e27.jpg)
 
 > * 題目來源：**UVA-10642**
+> * 限定時間：1 sec
 
 ---
 ## Input

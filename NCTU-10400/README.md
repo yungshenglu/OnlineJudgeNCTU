@@ -20,6 +20,7 @@ It is conjectured that the algorithm above will terminate (when a 1 is printed) 
 Given an input n, it is possible to determine the number of numbers printed before and including the 1 is printed. For a given n this is called the cycle-length of n. In the example above, the cycle length of 22 is 16. For any two numbers i and j you are to determine the maximum cycle length over all numbers between __and including both__ i and j.
 
 > * 題目來源：**UVA-100**
+> * 限定時間：10 sec
 
 ---
 ## Input
