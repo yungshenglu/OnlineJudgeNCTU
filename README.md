@@ -21,3 +21,8 @@ To access this repository more easily, the following plugins is recommended to i
 > **NOTICE:** You can follow the contributing process [CONTRIBUTING.md](CONTRIBUTING.md) to join me. I am very welcome any issue!
 
 * [David Lu](https://github.com/yungshenglu)
+
+---
+## License
+
+[GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
