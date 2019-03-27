@@ -1,4 +1,4 @@
-# Online Judge NCTU
+# NCTU Online Judge
 
 ![](res/nctu.png)
 
