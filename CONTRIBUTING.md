@@ -8,9 +8,9 @@ Thanks for contributing this repository. The following steps are show how to joi
 1. Fork this repository and clone the repository you forked
     ```bash
     # Clone your fork of the repo into the current directory
-    git clone https://github.com/<YOUR_USERNAME>/OnlineJudgeNCTU
+    $ git clone https://github.com/<YOUR_USERNAME>/OnlineJudgeNCTU
     # Navigate to the newly cloned directory
-    cd OnlineJudgeNCTU
+    $ cd OnlineJudgeNCTU
     ```
 2. Create new branch named `develop` and switch to this branch
     ```bash
